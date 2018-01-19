@@ -1,0 +1,28 @@
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "docs"
+baseurl = "http://dzakaammar.github.io/resume/"
+googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Dzaka Ammar Ibrahim"
+  title = "Dzaka's Resume"
+  description = "Dzaka Ammar Ibrahim's Personal Resume"
+  avatar = "profile.jpg"
+  email = "dzakaammar@gmail.com"
+  email_full = "mailto:dzakaammar@gmail.com"
+  website = "Blog"
+  website_full = "https://dzakaammar.github.io/me"
+  github = "dzakaammar"
+  twitter = "dzakaammar"
+  # tel = "+44 0000 000000"
+  # tel_full = "+440000000000"
+  google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
+  address = "South of Tangerang"
+  postcode = "15414"
+  city = "Jakarta"
+  country = "Indonesia"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []

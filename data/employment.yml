@@ -1,0 +1,17 @@
+name: Employment
+source:
+  - prof: Product Engineer
+    place: Cybertrend Intrabuana, Jakarta, ID
+    time: Jan 2018 to Present
+    description: Analyzing and desgining product for the company. Micoservice is the goal, and I started to use Go as my main backend platform.
+
+  - prof: Web Application Developer
+    place: Cybertrend Intrabuana, Jakarta, ID
+    time: Oct 2016 to Dec 2017
+    description: As software consultant, working with Business Intellegence team to deliver solution to the client. Most of my work built on PHP Laravel, ASP .Net, and Tableau API.
+
+  - prof: Programming Specialist (Internship)
+    place: Satu Data Indonesia, Jakarta, ID
+    time: May 2016 to Aug 2016
+    description: Collaborate with team to discuss some topics of Open Data in Indonesia. I also manage the goverments open data portal (http://data.go.id)
+    

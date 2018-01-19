@@ -1,0 +1,11 @@
+name: Programming Skills
+title: Software engineering & web development
+source:
+  - name: [Laravel, JQuery]
+    stars: 5
+
+  - name: [Go, ASP .NET, Java]
+    stars: 4
+
+  - name: [Docker]
+    stars: 3
