@@ -1,7 +1,7 @@
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "docs"
-baseurl = "http://dzakaammar.github.io/resume/"
+baseurl = "https://dzakaammar.github.io/resume/"
 googleAnalytics = ""
 theme = "hugo-vitae"
 
