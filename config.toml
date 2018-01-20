@@ -4,6 +4,7 @@ publishdir = "docs"
 baseurl = "https://dzakaammar.github.io/resume/"
 googleAnalytics = ""
 theme = "hugo-vitae"
+title = "dzakaammar"
 
 [params]
   author = "Dzaka Ammar Ibrahim"
