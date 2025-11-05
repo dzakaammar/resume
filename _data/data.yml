@@ -70,6 +70,11 @@ experiences:
           - Taking part in analyzing and designing the product by collaborating with the domain expert.
           - Contribute and help the team by assisting and mentoring the team member.
 
+        Achievements:
+          - Successfully launched Mekari Expense application that helps companies manage their employee expenses, claims, business trips, virtual cards (Mastercard & VISA), and more.
+          - Successfully integrate Aladin Bank as Bank as a Service (BaaS) provider for Mekari Flex application.
+          - Being a PIC of Architectural Committee in the Contextual Financial Services tribe which is responsible for reviewing and approving architectural decisions within the tribe to ensure alignment with best practices and organizational standards.
+
         Tech stacks: Go, REST API, Ruby on Rails, PostgreSQL, Redis, Apache Kafka, Kubernetes, AliCloud.
     - role: Senior Backend Engineer
       time: 2020 - 2022
@@ -90,7 +95,7 @@ experiences:
           - Analyze and design the system
           - Maintain microservices to achieve high availability.
 
-        Tech stacks: Go, CockroachDB, Redis, Elasticsearch, GraphQL, NATS, AWS, Kubernetes, gRPC, etc.
+        Tech stacks: Go, Python, CockroachDB, Redis, Elasticsearch, GraphQL, NATS, AWS, Kubernetes, gRPC, etc.
     - role: Web Application Developer
       time: 2016 - 2018
       company: Cybertrend Intrabuana, Jakarta
